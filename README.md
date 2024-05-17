@@ -17,7 +17,7 @@ The frontend is built with React.js.
 1. **Navigate to the frontend directory**:
     ```sh
     git clone <repository-url>
-    cd repository/frontend
+    cd repository/quantum_frontend
     ```
 
 2. **Install dependencies**:
@@ -29,7 +29,7 @@ The frontend is built with React.js.
 
 1. **Start the application**:
     ```sh
-    npm start
+    npm run dev
     ```
 
     The application will run on `http://localhost:4200`.
